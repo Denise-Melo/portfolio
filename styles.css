@@ -1,0 +1,18 @@
+body{ 
+    background-color: rgb(31, 27, 27);
+    color: rgb(241, 245, 246);
+}
+.potfolio{
+    color: black
+}
+.color{
+    background-color: #b3bcbd;
+}
+.icons{
+    width: 40px;
+    height: 40px;
+}
+
+footer{
+    height:200px;
+  }
